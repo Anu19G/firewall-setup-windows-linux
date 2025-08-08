@@ -13,21 +13,12 @@ This repository contains a complete step-by-step guide for configuring, testing,
 ---
 
 ## 📂 Repository Structure
-firewall-setup-windows-linux/
-├── Windows/
-│ ├── fw_profile_status.txt # Baseline firewall profile status
-│ ├── fw_rules_baseline.csv # Exported list of all firewall rules before changes
-│ ├── screenshots/ # GUI screenshots for evidence
-│
-├── Linux/
-│ ├── ufw_baseline.txt # Baseline UFW status before rules were added
-│ ├── screenshots/ # Terminal screenshots for evidence
-│
-├── documentation/
-│ ├── firewall-report.pdf # Full internship documentation
-│
-└── README.md # This file
-
+The repository includes:
+- **Windows folder** — baseline firewall profile status file, exported firewall rules CSV, and GUI screenshots.  
+- **Linux folder** — UFW baseline status file and terminal screenshots.  
+- **Documentation folder** — full internship report in PDF format.  
+- **README.md** — this documentation file.
+  
 ---
 
 ## 🛠️ Task Summary
